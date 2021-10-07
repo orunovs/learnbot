@@ -1,0 +1,3 @@
+*.log
+setings.py
+__pycache__
